@@ -1,0 +1,25 @@
+# Archivos del Sistema Operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Archivos de editores y VS Code
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+
+# Archivos temporales de Office (muy útil para profesores)
+~$*
+.~lock.*
+
+# Archivos de logs y temporales
+*.log
+tmp/
+temp/
