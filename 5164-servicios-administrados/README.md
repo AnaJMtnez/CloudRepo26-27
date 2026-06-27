@@ -1,5 +1,5 @@
 # Guía Didáctica: Despliegue de Servicios Administrados en la Nube
-## Código: 5164 | Carga Horaria: 90 horas | Créditos: 5 ECTS
+## Código: 5164 | Carga Horaria: 120 horas (4h/semana)* | Créditos: 5 ECTS
 
 ---
 
@@ -7,7 +7,8 @@
 
 *   **Módulo Profesional:** Despliegue de servicios administrados en la nube.
 *   **Código:** 5164.
-*   **Duración:** 90 horas.
+*   **Duración:** 120 horas (4 horas semanales)*.
+*   *\* Nota:* Duración adaptada en el IES Poeta Paco Mollá (currículo autonómico estándar: 90 horas, 3h/semana).
 *   **ECTS:** 5.
 *   **Especialidad Docente:** Sistemas y Aplicaciones Informáticas.
 *   **Perfil:** Profesor de Enseñanza Secundaria / Catedrático / Profesor Técnico de FP (a extinguir).

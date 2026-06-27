@@ -1,5 +1,5 @@
 # Guía Didáctica: Fundamentos y Configuración Inicial de Servicios en la Nube
-## Código: 5160 | Carga Horaria: 130 horas | Créditos: 8 ECTS
+## Código: 5160 | Carga Horaria: 120 horas (4h/semana)* | Créditos: 8 ECTS
 
 ---
 
@@ -7,7 +7,8 @@
 
 *   **Módulo Profesional:** Fundamentos y configuración inicial de servicios en la nube.
 *   **Código:** 5160.
-*   **Duración:** 130 horas.
+*   **Duración:** 120 horas (4 horas semanales)*.
+*   *\* Nota:* Duración adaptada en el IES Poeta Paco Mollá (currículo autonómico estándar: 130 horas, 5h/semana).
 *   **ECTS:** 8.
 *   **Especialidad Docente:** Sistemas y Aplicaciones Informáticas.
 *   **Perfil:** Profesor de Enseñanza Secundaria / Catedrático / Profesor Técnico de FP (a extinguir).

@@ -13,6 +13,7 @@ Este espacio está diseñado para albergar las programaciones, guías didáctica
 *   **Nivel:** Formación Profesional de Grado Superior (Máster de Formación Profesional).
 *   **Duración Total:** 720 horas en un curso de 30 semanas (700 horas asociadas a módulos profesionales + 20 horas de tutoría).
     *   *Nota Dual:* Para el curso 2026-2027, el **25% de las 700 horas de los módulos (175 horas)** se realiza en modalidad de **Formación en Empresa (FE)** (FCT/Dual).
+    *   *Adaptación IES Poeta Paco Mollá:* Para mayor equidad pedagógica y por distribución de los Resultados de Aprendizaje de despliegue, el centro redistribuye 1 hora semanal del módulo 5160 al 5164, quedando ambos con **4 horas semanales (120 horas totales cada uno)**.
 *   **Créditos ECTS:** 41.
 *   **Familia Profesional:** Informática y Comunicaciones.
 *   **Referencia Normativa:** [Real Decreto 145/2026, de 25 de febrero](https://www.boe.es/eli/es/rd/2026/02/25/145) (BOE nº 53, de 28 de febrero de 2026) y el [Decreto 95/2026, de 19 de junio, del Consell](https://dogv.gva.es/va/eli/es-vc/d/2026/06/19/95/dof/vci/html) (DOGV nº 10391, de 25 de junio de 2026), regulador del currículo en la Comunitat Valenciana.
@@ -30,11 +31,13 @@ El curso de especialización consta de **5 módulos profesionales** con la distr
 
 | Código | Módulo Profesional | Duración | ECTS | Especialidad Docente |
 | :---: | :--- | :---: | :---: | :--- |
-| **5160** | 🔗 [Fundamentos y configuración inicial de servicios en la nube](./5160-fundamentos-servicios-nube/README.md) | 130 h (5h/sem) | 8 | Sistemas y Aplicaciones Informáticas |
+| **5160** | 🔗 [Fundamentos y configuración inicial de servicios en la nube](./5160-fundamentos-servicios-nube/README.md) | 120 h (4h/sem)* | 8 | Sistemas y Aplicaciones Informáticas |
 | **5161** | 🔗 [Administración de recursos de computación en la nube](./5161-computacion-nube/README.md) | 180 h (6h/sem) | 8 | Sistemas y Aplicaciones Informáticas |
 | **5162** | 🔗 [Administración de bases de datos y almacenamiento en la nube](./5162-bd-almacenamiento-nube/README.md) | 150 h (5h/sem) | 12 | Informática |
 | **5163** | 🔗 [Administración de redes en la nube](./5163-redes-nube/README.md) | 150 h (5h/sem) | 8 | Informática |
-| **5164** | 🔗 [Despliegue de servicios administrados en la nube](./5164-servicios-administrados/README.md) | 90 h (3h/sem) | 5 | Sistemas y Aplicaciones Informáticas |
+| **5164** | 🔗 [Despliegue de servicios administrados en la nube](./5164-servicios-administrados/README.md) | 120 h (4h/sem)* | 5 | Sistemas y Aplicaciones Informáticas |
+
+*\* Distribución horaria propia adaptada por el IES Poeta Paco Mollá (4h/semana en ambos módulos).*
 
 ---
 
